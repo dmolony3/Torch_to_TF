@@ -44,7 +44,7 @@ six==1.14.0
 sympy==1.1.1
 tb-nightly==1.14.0a20190603
 TBB==0.1
-tensorflow-gpu==2.0.0b1
+tensorflow-gpu==2.5.3
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
 tf2cv==0.0.11
