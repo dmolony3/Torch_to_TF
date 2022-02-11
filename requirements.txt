@@ -30,7 +30,7 @@ numpy==1.15.4
 olefile==0.46
 parso==0.4.0
 Pillow==7.1.1
-protobuf==3.11.3
+protobuf==3.15.0
 pydicom==1.2.2
 pydot==1.4.1
 Pygments==2.4.2
