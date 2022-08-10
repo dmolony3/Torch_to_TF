@@ -24,7 +24,7 @@ Markdown==3.2.1
 matplotlib==3.2.1
 mkl-fft==1.0.6
 mkl-random==1.0.1
-nbconvert==5.5.0
+nbconvert==6.3.0
 networkx==2.2
 numpy==1.15.4
 olefile==0.46
